@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html{background:#E7DBFF;scroll-behavior:smooth;-webkit-tap-highlight-color:transparent}
+body{@apply font-sans text-plum antialiased;background:#E7DBFF radial-gradient(rgba(42,18,64,.12) 1.2px,transparent 1.4px) 0 0/18px 18px}
+:focus-visible{outline:3px solid #2A1240;outline-offset:3px}
